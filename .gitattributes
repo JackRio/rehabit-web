@@ -1,0 +1,3 @@
+# Build artifacts: store bytes exactly as the exporter produced them, so a
+# redeploy diffs only what actually changed.
+* -text
